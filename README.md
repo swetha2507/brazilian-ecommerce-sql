@@ -2,15 +2,6 @@
 
 This project uses the Brazilian E-Commerce Public Dataset from Olist to perform data analysis using SQL and Python. The goal is to explore customer behavior, sales trends, and delivery performance using real-world e-commerce data.
 
-## Project Structure
-
-brazilian-ecommerce-sql/
-├── Data/ # Contains the raw CSV files from the dataset
-├── queries/ # Folder for SQL query files
-├── load_data.py # Python script to load CSVs into a SQLite database
-├── brazilian_ecommerce.db # SQLite database file created from the CSVs
-└── README.md # Project documentation
-
 
 ## Tools Used
 
